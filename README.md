@@ -4,9 +4,9 @@
 
 
 ## Education
-Master's Degree in Computer Engineering | The University Lucian Blaga from Sibiu(2021-2023)
-Master's Degree in Theology-Systematic | The University Lucian Blaga from Sibiu(2015-2017)
-Faculty of Theology | The University Lucian Blaga from Sibiu(2011-2015)
+- Master's Degree in Computer Engineering | The University Lucian Blaga from Sibiu(2021-2023)
+- Master's Degree in Theology-Systematic | The University Lucian Blaga from Sibiu(2015-2017)
+- Faculty of Theology | The University Lucian Blaga from Sibiu(2011-2015)
 
 ## Work Experience
 **Accountant Receivable @ Grupo Antolin Sibiu(_July 2022 - Present_)**
