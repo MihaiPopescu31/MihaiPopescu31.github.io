@@ -9,11 +9,11 @@ Master's Degree in Theology-Systematic | The University Lucian Blaga from Sibiu(
 Faculty of Theology | The University Lucian Blaga from Sibiu(2011-2015)
 
 ## Work Experience
-**Accountant Receivable @ Grupo Antolin Sibiu(_June 2022 - Present_)**
+**Accountant Receivable @ Grupo Antolin Sibiu(_July 2022 - Present_)**
 - Managing accounts receivable,including colection and reconciliation using SAP
 - Proficient in communication with customers and adept at utilizing SAP and other accounting software for tracking receivables and generating reports
   
-**Logistics Technician,Bussiness Responsible  @ Grupo Antolin Sibiu(_September 2016 - July 2022_)**
+**Logistics Technician,Bussiness Responsible  @ Grupo Antolin Sibiu(_September 2016 - June 2022_)**
 - Manages customer invoicing and VAT compliance, alongside supplier material registration in SAP
 - Supports logistics by efficiently handling SAP processes for invoice generation and order fulfillment 
   
